@@ -12,9 +12,7 @@ public class VistaFrame extends JFrame {
         setLocationRelativeTo(null); 
          setVisible(true);
         
-       // Ahorcadolamina milamina = new Ahorcadolamina(this);
-        
-       // add(milamina); 
+       
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
     }
